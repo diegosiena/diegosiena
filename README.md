@@ -1,8 +1,7 @@
 ### Hi there, I'm Diego Siena 👋
 > I love people and technology, and what both can do together to make the world a better place
 
-- 💻 Software Engineer @ **BairesDev**.
-- 📖 Learning about **Neuroscience** and **Machine Learning** 🧠.
+- 💻 Head of Data & Technology @ **Escala.ai**.
 - ⚡ Fun fact: Retired drummer, music lover.
 - 🎮 CS:GO best worst player in the world, flight simulator pilot.
 
